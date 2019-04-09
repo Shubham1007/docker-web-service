@@ -28,3 +28,4 @@ the following steps.
 The docker-compose.yml file allows us to configure multiple services inside the same file, and specify after that if the image needs to
 be built or if we can use a predefined image.
 
+
